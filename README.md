@@ -1,2 +1,0 @@
-# Band name generator
- 
