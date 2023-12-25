@@ -1,15 +1,16 @@
 # SummarizeAI
 
-SummarizeAI is an AI-integrated web application designed to summarize articles effortlessly. By simply entering an article link, the application utilizes advanced AI algorithms to condense the content, providing users with concise and efficient summaries. Powered by RapidApi's Article Extractor and Summarizer, this tool streamlines the process of extracting key information from lengthy articles, making it an ideal solution for users seeking quick insights without delving into full-length content.
+[SummarizeAI](https://summarize-4mph9h0hs-rahmans-projects.vercel.app/) is an AI-integrated web application designed to summarize articles effortlessly. By simply entering an article link, the application utilizes advanced AI algorithms to condense the content, providing users with concise and efficient summaries. Powered by RapidApi's Article Extractor and Summarizer, this tool streamlines the process of extracting key information from lengthy articles, making it an ideal solution for users seeking quick insights without delving into full-length content.
 
 ## Technologies Used
 
 The technologies and tools were used to develop this project are
 
 - TailwindCSS
+- JavaScript
 - React
 - Redux
-- RapidApi([Article Extractor and Summarizer](https://rapidapi.com/restyler/api/article-extractor-and-summarizer))
+- RapidApi ([Article Extractor and Summarizer](https://rapidapi.com/restyler/api/article-extractor-and-summarizer))
 
 ## Getting Started
 
@@ -58,9 +59,7 @@ Make sure you have the following requirements met:
 
 ![page one](./public/pictures/pageOne.jpg)
 
-
 ![page two](./public/pictures/pageTwo.jpg)
-
 
 ![page three](./public/pictures/pageThree.jpg)
 
@@ -97,4 +96,4 @@ This website is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-If you have any questions or feedback, feel free to reach out to us at therahman14@gmail.com. We're excited to hear from you and make this project even better!
+If you have any questions or feedback, feel free to reach out to us at <therahman14@gmail.com>. We're excited to hear from you and make this project even better!
