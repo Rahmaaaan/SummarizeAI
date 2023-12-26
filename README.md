@@ -1,6 +1,6 @@
 # SummarizeAI
 
-[SummarizeAI](https://summarize-4mph9h0hs-rahmans-projects.vercel.app/) is an AI-integrated web application designed to summarize articles effortlessly. By simply entering an article link, the application utilizes advanced AI algorithms to condense the content, providing users with concise and efficient summaries. Powered by RapidApi's Article Extractor and Summarizer, this tool streamlines the process of extracting key information from lengthy articles, making it an ideal solution for users seeking quick insights without delving into full-length content.
+[SummarizeAI](https://summarize-ai-mocha.vercel.app/) is an AI-integrated web application designed to summarize articles effortlessly. By simply entering an article link, the application utilizes advanced AI algorithms to condense the content, providing users with concise and efficient summaries. Powered by RapidApi's Article Extractor and Summarizer, this tool streamlines the process of extracting key information from lengthy articles, making it an ideal solution for users seeking quick insights without delving into full-length content.
 
 ## Technologies Used
 
@@ -70,21 +70,21 @@ Contributions to SummarizeAI are welcome! To contribute, follow these steps:
 1. Fork the repository.
 2. Create a new branch for your feature or bug fix:
 
-    ```bash
-    git checkout -b feature/your-feature-name
-    ```
+   ```bash
+   git checkout -b feature/your-feature-name
+   ```
 
 3. Make changes and commit them:
 
-    ```bash
-    git commit -m "Add your commit message here"
-    ```
+   ```bash
+   git commit -m "Add your commit message here"
+   ```
 
 4. Push your changes to your branch:
 
-    ```bash
-    git push origin feature/your-feature-name
-    ```
+   ```bash
+   git push origin feature/your-feature-name
+   ```
 
 5. Create a pull request on the main repository.
 
